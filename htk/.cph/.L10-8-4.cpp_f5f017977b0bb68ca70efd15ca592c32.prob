@@ -1,0 +1,1 @@
+{"name":"Local: L10-8-4","url":"c:\\Users\\v-ycou\\Desktop\\Tony\\c++\\htk\\L10-8-4.cpp","tests":[{"id":1678447683022,"input":"6\n2 4\n0 0\n0 6\n3 5\n0 0\n0 0","output":"1 2 4 3 6 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\v-ycou\\Desktop\\Tony\\c++\\htk\\L10-8-4.cpp","group":"local","local":true}
